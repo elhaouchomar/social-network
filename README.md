@@ -334,9 +334,10 @@ This social network will include the following features:
 This project was developed as part of the INTRA OUJDA module.  The original design and specifications were provided by the instructors. 
 Made With Passion by : 
 - [Omar Elhaouch](https://github.com/elhaouchomar)  
-- [Zakaria Abdlali](https://github.com/heyZakaria)  
+- [Abdelhafid  Hssaini](https://github.com/HaFiid98)  
 - [Houda Hdili](https://github.com/houdajeon)  
 - [Mohamed Tawil](https://github.com/twlmed212)
+- [Zakaria Abdlali](https://github.com/heyZakaria)  
 
 
 
